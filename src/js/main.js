@@ -9,3 +9,6 @@ import './barra'
 
 //Cargar el carrusel/slider
 import './slider'
+
+//Cargar header
+import './header'

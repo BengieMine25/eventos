@@ -1,4 +1,5 @@
 let slider = document.getElementById("slider");
+if (slider) {
 
 slider.innerHTML = `<div id="indicators-carousel" class="relative w-full" data-carousel="static">
 <!-- Carousel wrapper -->
@@ -47,3 +48,4 @@ slider.innerHTML = `<div id="indicators-carousel" class="relative w-full" data-c
 </button>
 </div>
 `
+}
